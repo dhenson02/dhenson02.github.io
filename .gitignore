@@ -1,6 +1,7 @@
 .idea
 .tmp
 .old
+*.notused
 node_modules
 *.log
 
